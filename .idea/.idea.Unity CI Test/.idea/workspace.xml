@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VersionLogger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1zEt0agmF5I47cyj6OawSTjrOIC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633724856554</updated>
       <workItem from="1633724871505" duration="1218000" />
+      <workItem from="1633873873184" duration="149000" />
     </task>
     <servers />
   </component>
